@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B!;My+name+is+Tushar+Bisht;I'm+a+Student;My+Motto+is;Learning+today+Securing+tomorrow!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=500&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B!;My+name+is+Tushar+Bisht;I'm+a+Student;Learning+today+Securing+tomorrow!!)](https://git.io/typing-svg)
 ###
 
 <div align="center">
